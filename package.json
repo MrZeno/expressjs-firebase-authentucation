@@ -1,0 +1,17 @@
+{
+  "name": "expressjs_firebase_auth",
+  "version": "1.0.0",
+  "description": "Simple authentication system expressjs & firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zenzamy Othmane",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "firebase": "^5.7.0",
+    "hbs": "^4.0.1"
+  }
+}
